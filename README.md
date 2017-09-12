@@ -1,2 +1,2 @@
-# hello-world
-first project
+第一次使用github，
+感觉挺有意思。
